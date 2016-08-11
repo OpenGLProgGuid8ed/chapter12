@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>particlesClass</class>
+ <widget class="QWidget" name="particlesClass" >
+  <property name="objectName" >
+   <string notr="true">particlesClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>particles</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="particles.qrc"/>
+ </resources>
+ <connections/>
+</UI>
